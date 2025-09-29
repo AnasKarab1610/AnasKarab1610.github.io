@@ -51,7 +51,7 @@ a {
 .logo {
   height: 100px;
   display: block;
-  transition: all 0.3s linear; /* لتصغير الشعار بسلاسة */
+  transition: all 0.3s linear;
 
 }
 
@@ -62,7 +62,7 @@ a {
   color: #6f4e37;
   padding: 10px 30px;            
   border-radius: 10px;  
-  transition: all 0.3s linear; /* تحريك الروابط بسلاسة */
+  transition: all 0.3s linear;
   font-size: 22px;
 }
 
@@ -81,7 +81,7 @@ a {
     padding: 16px 30px;
 }
 .navbar.shrink .logo {
-  height: 70px; /* تقليل حجم الشعار عند التمرير */
+  height: 70px;
 }
 .navbar.shrink a {
   font-size: 18px;
